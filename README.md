@@ -6,6 +6,8 @@ freeboard
 ### How to Use
 
 ```bash
+git clone https://github.com/itmo-swm/freeboard
+cd freeboard
 docker-compose up -d
 ```
 
